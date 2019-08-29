@@ -22,13 +22,13 @@ a. Deep Q-Learning
 
 .. [#] `Deep Recurrent Q-Learning for Partially Observable MDPs <https://arxiv.org/abs/1507.06527>`_, Hausknecht and Stone, 2015. **[X]** **Algorithm: Deep Recurrent Q-Learning.**
 
-.. [#] `Dueling Network Architectures for Deep Reinforcement Learning <https://arxiv.org/abs/1511.06581>`_, Wang et al, 2015. **Algorithm: Dueling DQN.**
+.. [#] `Dueling Network Architectures for Deep Reinforcement Learning <https://arxiv.org/abs/1511.06581>`_, Wang et al, 2015.  **[X]** **Algorithm: Dueling DQN.**
 
-.. [#] `Deep Reinforcement Learning with Double Q-learning <https://arxiv.org/abs/1509.06461>`_, Hasselt et al 2015. **Algorithm: Double DQN.**
+.. [#] `Deep Reinforcement Learning with Double Q-learning <https://arxiv.org/abs/1509.06461>`_, Hasselt et al 2015.  **[X]** **Algorithm: Double DQN.**
 
-.. [#] `Prioritized Experience Replay <https://arxiv.org/abs/1511.05952>`_, Schaul et al, 2015. **Algorithm: Prioritized Experience Replay (PER).**
+.. [#] `Prioritized Experience Replay <https://arxiv.org/abs/1511.05952>`_, Schaul et al, 2015.  **[X]** **Algorithm: Prioritized Experience Replay (PER).**
 
-.. [#] `Rainbow: Combining Improvements in Deep Reinforcement Learning <https://arxiv.org/abs/1710.02298>`_, Hessel et al, 2017. **Algorithm: Rainbow DQN.**
+.. [#] `Rainbow: Combining Improvements in Deep Reinforcement Learning <https://arxiv.org/abs/1710.02298>`_, Hessel et al, 2017.  **[X]** **Algorithm: Rainbow DQN.**
 
 
 b. Policy Gradients
