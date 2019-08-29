@@ -18,7 +18,7 @@ a. Deep Q-Learning
    
 
 
-..  [#] `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013.**[X]** **Algorithm: DQN**
+..  [#] `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013. **[X]** **Algorithm: DQN**
 
 .. [#] `Deep Recurrent Q-Learning for Partially Observable MDPs <https://arxiv.org/abs/1507.06527>`_, Hausknecht and Stone, 2015. **[X]** **Algorithm: Deep Recurrent Q-Learning.**
 
