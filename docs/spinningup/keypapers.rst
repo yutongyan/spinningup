@@ -35,13 +35,13 @@ b. Policy Gradients
 -------------------
 
 
-.. [#] `Asynchronous Methods for Deep Reinforcement Learning <https://arxiv.org/abs/1602.01783>`_, Mnih et al, 2016. **Algorithm: A3C.**
+.. [#] `Asynchronous Methods for Deep Reinforcement Learning <https://arxiv.org/abs/1602.01783>`_, Mnih et al, 2016. **[X]** **Algorithm: A3C.**
 
-.. [#] `Trust Region Policy Optimization <https://arxiv.org/abs/1502.05477>`_, Schulman et al, 2015. **Algorithm: TRPO.**
+.. [#] `Trust Region Policy Optimization <https://arxiv.org/abs/1502.05477>`_, Schulman et al, 2015. **[X]** **Algorithm: TRPO.**
 
 .. [#] `High-Dimensional Continuous Control Using Generalized Advantage Estimation <https://arxiv.org/abs/1506.02438>`_, Schulman et al, 2015. **Algorithm: GAE.**
 
-.. [#] `Proximal Policy Optimization Algorithms <https://arxiv.org/abs/1707.06347>`_, Schulman et al, 2017. **Algorithm: PPO-Clip, PPO-Penalty.**
+.. [#] `Proximal Policy Optimization Algorithms <https://arxiv.org/abs/1707.06347>`_, Schulman et al, 2017. **[X]** **Algorithm: PPO-Clip, PPO-Penalty.**
 
 .. [#] `Emergence of Locomotion Behaviours in Rich Environments <https://arxiv.org/abs/1707.02286>`_, Heess et al, 2017. **Algorithm: PPO-Penalty.**
 
