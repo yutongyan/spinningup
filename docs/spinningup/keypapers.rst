@@ -47,7 +47,7 @@ b. Policy Gradients
 
 .. [#] **[X]** `Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation <https://arxiv.org/abs/1708.05144>`_, Wu et al, 2017. **Algorithm: ACKTR.**
 
-.. [#] `Sample Efficient Actor-Critic with Experience Replay <https://arxiv.org/abs/1611.01224>`_, Wang et al, 2016. **Algorithm: ACER.**
+.. [#] **[X]** `Sample Efficient Actor-Critic with Experience Replay <https://arxiv.org/abs/1611.01224>`_, Wang et al, 2016. **Algorithm: ACER.**
 
 .. [#] `Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor <https://arxiv.org/abs/1801.01290>`_, Haarnoja et al, 2018. **Algorithm: SAC.**
 
