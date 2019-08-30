@@ -39,7 +39,7 @@ b. Policy Gradients
 
 .. [#] `Trust Region Policy Optimization <https://arxiv.org/abs/1502.05477>`_, Schulman et al, 2015. **[X]** **Algorithm: TRPO.**
 
-.. [#] `High-Dimensional Continuous Control Using Generalized Advantage Estimation <https://arxiv.org/abs/1506.02438>`_, Schulman et al, 2015. **Algorithm: GAE.**
+.. [#] `High-Dimensional Continuous Control Using Generalized Advantage Estimation <https://arxiv.org/abs/1506.02438>`_, Schulman et al, 2015. **[X]** **Algorithm: GAE.**
 
 .. [#] `Proximal Policy Optimization Algorithms <https://arxiv.org/abs/1707.06347>`_, Schulman et al, 2017. **[X]** **Algorithm: PPO-Clip, PPO-Penalty.**
 
