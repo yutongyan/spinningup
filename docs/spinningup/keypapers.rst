@@ -18,34 +18,34 @@ a. Deep Q-Learning
    
 
 
-..  [#] `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013. **[X]** **Algorithm: DQN**
+..  [#] **[X]** `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013. **Algorithm: DQN**
 
-.. [#] `Deep Recurrent Q-Learning for Partially Observable MDPs <https://arxiv.org/abs/1507.06527>`_, Hausknecht and Stone, 2015. **[X]** **Algorithm: Deep Recurrent Q-Learning.**
+.. [#] **[X]** `Deep Recurrent Q-Learning for Partially Observable MDPs <https://arxiv.org/abs/1507.06527>`_, Hausknecht and Stone, 2015. **Algorithm: Deep Recurrent Q-Learning.**
 
-.. [#] `Dueling Network Architectures for Deep Reinforcement Learning <https://arxiv.org/abs/1511.06581>`_, Wang et al, 2015.  **[X]** **Algorithm: Dueling DQN.**
+.. [#] **[X]** `Dueling Network Architectures for Deep Reinforcement Learning <https://arxiv.org/abs/1511.06581>`_, Wang et al, 2015.  **Algorithm: Dueling DQN.**
 
-.. [#] `Deep Reinforcement Learning with Double Q-learning <https://arxiv.org/abs/1509.06461>`_, Hasselt et al 2015.  **[X]** **Algorithm: Double DQN.**
+.. [#] **[X]** `Deep Reinforcement Learning with Double Q-learning <https://arxiv.org/abs/1509.06461>`_, Hasselt et al 2015.  **Algorithm: Double DQN.**
 
-.. [#] `Prioritized Experience Replay <https://arxiv.org/abs/1511.05952>`_, Schaul et al, 2015.  **[X]** **Algorithm: Prioritized Experience Replay (PER).**
+.. [#] **[X]** `Prioritized Experience Replay <https://arxiv.org/abs/1511.05952>`_, Schaul et al, 2015.  **Algorithm: Prioritized Experience Replay (PER).**
 
-.. [#] `Rainbow: Combining Improvements in Deep Reinforcement Learning <https://arxiv.org/abs/1710.02298>`_, Hessel et al, 2017.  **[X]** **Algorithm: Rainbow DQN.**
+.. [#] **[X]** `Rainbow: Combining Improvements in Deep Reinforcement Learning <https://arxiv.org/abs/1710.02298>`_, Hessel et al, 2017.  **Algorithm: Rainbow DQN.**
 
 
 b. Policy Gradients
 -------------------
 
 
-.. [#] `Asynchronous Methods for Deep Reinforcement Learning <https://arxiv.org/abs/1602.01783>`_, Mnih et al, 2016. **[X]** **Algorithm: A3C.**
+.. [#] **[X]** `Asynchronous Methods for Deep Reinforcement Learning <https://arxiv.org/abs/1602.01783>`_, Mnih et al, 2016. **Algorithm: A3C.**
 
-.. [#] `Trust Region Policy Optimization <https://arxiv.org/abs/1502.05477>`_, Schulman et al, 2015. **[X]** **Algorithm: TRPO.**
+.. [#] **[X]** `Trust Region Policy Optimization <https://arxiv.org/abs/1502.05477>`_, Schulman et al, 2015. **Algorithm: TRPO.**
 
-.. [#] `High-Dimensional Continuous Control Using Generalized Advantage Estimation <https://arxiv.org/abs/1506.02438>`_, Schulman et al, 2015. **[X]** **Algorithm: GAE.**
+.. [#] **[X]** `High-Dimensional Continuous Control Using Generalized Advantage Estimation <https://arxiv.org/abs/1506.02438>`_, Schulman et al, 2015. **Algorithm: GAE.**
 
-.. [#] `Proximal Policy Optimization Algorithms <https://arxiv.org/abs/1707.06347>`_, Schulman et al, 2017. **[X]** **Algorithm: PPO-Clip, PPO-Penalty.**
+.. [#] **[X]** `Proximal Policy Optimization Algorithms <https://arxiv.org/abs/1707.06347>`_, Schulman et al, 2017. **Algorithm: PPO-Clip, PPO-Penalty.**
 
-.. [#] `Emergence of Locomotion Behaviours in Rich Environments <https://arxiv.org/abs/1707.02286>`_, Heess et al, 2017. **Algorithm: PPO-Penalty.**
+.. [#] **[X]** `Emergence of Locomotion Behaviours in Rich Environments <https://arxiv.org/abs/1707.02286>`_, Heess et al, 2017. **Algorithm: PPO-Penalty.**
 
-.. [#] `Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation <https://arxiv.org/abs/1708.05144>`_, Wu et al, 2017. **Algorithm: ACKTR.**
+.. [#] **[X]** `Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation <https://arxiv.org/abs/1708.05144>`_, Wu et al, 2017. **Algorithm: ACKTR.**
 
 .. [#] `Sample Efficient Actor-Critic with Experience Replay <https://arxiv.org/abs/1611.01224>`_, Wang et al, 2016. **Algorithm: ACER.**
 
