@@ -49,7 +49,7 @@ b. Policy Gradients
 
 .. [#] **[X]** `Sample Efficient Actor-Critic with Experience Replay <https://arxiv.org/abs/1611.01224>`_, Wang et al, 2016. **Algorithm: ACER.**
 
-.. [#] `Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor <https://arxiv.org/abs/1801.01290>`_, Haarnoja et al, 2018. **Algorithm: SAC.**
+.. [#] **[X]** `Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor <https://arxiv.org/abs/1801.01290>`_, Haarnoja et al, 2018. **Algorithm: SAC.**
 
 c. Deterministic Policy Gradients
 ---------------------------------
